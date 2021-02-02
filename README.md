@@ -1,3 +1,8 @@
+# Search Filters Interview Exercise
+
+The goal of this exercise is to design and implement a configurable search UI.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
